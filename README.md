@@ -19,8 +19,6 @@ Computer Fundamentals
 
 https://www.comptia.org/training/by-certification/a
 
-https://www.youtube.com/watch?v=tIfRDPekybU
-
 https://www.tutorialspoint.com/computer_fundamentals/index.htm
 
 https://onlinecourses.swayam2.ac.in/cec19_cs06/preview
@@ -31,10 +29,6 @@ https://www.coursera.org/courses?query=computer%20fundamentals
 
 Computer Networking
 
-https://www.youtube.com/watch?v=0AcpUwnc12E&list=PLkW9FMxqUvyZaSQNQslneeODER3bJCb2K
-
-https://www.youtube.com/watch?v=qiQR5rTSshw -https://www.youtube.com/watch?v=L3ZzkOTDins
-
 https://www.udacity.com/course/computer-networking--ud436
 
 https://www.coursera.org/professional-certificates/google-it-support
@@ -43,73 +37,16 @@ https://www.udemy.com/course/introduction-to-computer-networks/
 
 Operating Systems
 
-https://www.youtube.com/watch?v=z2r-p7xc7c4
-
-https://www.youtube.com/watch?v=_tCY-c-sPZc
-
 https://www.coursera.org/learn/os-power-user
 
 https://www.udacity.com/course/introduction-to-operating-systems--ud923
 
 https://www.udemy.com/course/linux-command-line-volume1/
 
-https://www.youtube.com/watch?v=v_1zB2WNN14
-
-Command Line
-
-Windows:
-
-https://www.youtube.com/watch?v=TBBbQKp9cKw&list=PLRu7mEBdW7fDTarQ0F2k2tpwCJg_hKhJQ
-
-https://www.youtube.com/watch?v=fid6nfvCz1I&list=PLRu7mEBdW7fDlf80vMmEJ4Vw9uf2Gbyc_
-
-https://www.youtube.com/watch?v=UVUd9_k9C6A
-
-Linux:
-
-https://www.youtube.com/watch?v=fid6nfvCz1I&list=PLRu7mEBdW7fDlf80vMmEJ4Vw9uf2Gbyc_
-
-https://www.youtube.com/watch?v=UVUd9_k9C6A -
-
-https://www.youtube.com/watch?v=GtovwKDemnI
-
-https://www.youtube.com/watch?v=2PGnYjbYuUo
-
-https://www.youtube.com/watch?v=e7BufAVwDiM&t=418s
-
-https://www.youtube.com/watch?v=bYRfRGbqDIw&list=PLkPmSWtWNIyTQ1NX6MarpjHPkLUs3u1wG&index=4
 
 Programming C
 
-https://www.youtube.com/watch?v=irqbmMNs2Bo
-
-https://www.youtube.com/watch?v=ZSPZob_1TOk
-
 https://www.programiz.com/c-programming
-
-Python
-
-https://www.youtube.com/watch?v=ZLga4doUdjY&t=30352s
-
-https://www.youtube.com/watch?v=gfDE2a7MKjA
-
-https://www.youtube.com/watch?v=eTyI-M50Hu4
-
-JavaScript
-
-https://www.youtube.com/watch?v=-lCF2t6iuUc
-
-https://www.youtube.com/watch?v=hKB-YGF14SY&t=1486s
-
-https://www.youtube.com/watch?v=jS4aFq5-91M
-
-PHP
-
-https://www.youtube.com/watch?v=1SnPKhCdlsU
-
-https://www.youtube.com/watch?v=OK_JCtrrv-c
-
-https://www.youtube.com/watch?v=T8SEGXzdbYg&t=1329s
 
 Where to learn from?
 
@@ -141,38 +78,8 @@ PortSwigger: https://portswigger.net/
 Cloudflare: https://www.cloudflare.com/
 
 YouTube Channels
+https://www.youtube.com/@penetestersquad
 
-English
-
-Insider PHD: https://www.youtube.com/c/InsiderPhD
-
-Stok: https://www.youtube.com/c/STOKfredrik
-
-Bug Bounty Reports Explained: https://www.youtube.com/c/BugBountyReportsExplained
-
-Vickie Li: https://www.youtube.com/c/VickieLiDev
-
-Hacking Simplified: https://www.youtube.com/c/HackingSimplifiedAS
-
-Pwn function :https://www.youtube.com/c/PwnFunction
-
-Farah Hawa: https://www.youtube.com/c/FarahHawa
-
-XSSRat: https://www.youtube.com/c/TheXSSrat
-
-Zwink: https://www.youtube.com/channel/UCDl4jpAVAezUdzsDBDDTGsQ
-
-Live Overflow :https://www.youtube.com/c/LiveOverflow
-
-Hindi
-
-Spin The Hack: https://www.youtube.com/c/SpinTheHack
-
-Pratik Dabhi: https://www.youtube.com/c/impratikdabhi
-
-Join Twitter Today!
-
-World class security researchers and bug bounty hunters are on Twitter. Where are you? Join Twitter now and get daily updates on new issues, vulnerabilities, zero days, exploits, and join people sharing their methodologies, resources, notes and experiences in the cyber security world!
 
 PRACTICE! PRACTICE! and PRACTICE!
 CTF
